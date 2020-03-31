@@ -5,5 +5,8 @@ This program counts the frequency (number of times) of each vowel character ( a,
 
 If yes get the input sentence,else quit the program.
 
-I am using a dictionary to store te frequencies.
+I am using a dictionary to store the frequencies.
+
+[![Vowel-Counter.gif](https://i.postimg.cc/wM1dRVDC/Vowel-Counter.gif)](https://postimg.cc/ctGzVf9h)
+
 
